@@ -1,10 +1,12 @@
 img{
-    width: 200px;
+    width: 300px;
 }
 
 body{
+    padding: 75px;
     text-align: center;
-    font-family: 'Arial';
-    background: azure;
-    color: purple;
+    font-family: 'Rubik';
+    background: rgb(39, 38, 45);
+    color: aliceblue;
+    font-weight: 75;
 }
